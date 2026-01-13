@@ -1,0 +1,37 @@
+https://github.com/felixrieseberg/windows95/releases/download/v4.0.0/windows95-win32-x64-4.0.0.zip
+
+Do You Still Remember Windows 95?
+
+In 1995, Windows 95 changed everything.
+
+For many of us, it was the first time a computer felt personal —
+the Start button, the taskbar, the mouse-driven UI, the sound of dial-up, and that iconic boot screen that meant the future just arrived.
+
+Fast forward nearly 30 years.
+
+And now… you can run Windows 95 inside your browser.
+
+Yes — really.
+
+A developer built a full Windows 95 environment using Electron + JavaScript, packaged from the original OS binaries, and open-sourced it on GitHub:
+
+👉 https://github.com/felixrieseberg/windows95
+Download the ready-to-run Windows app here:
+👉 https://github.com/felixrieseberg/windows95/releases/download/v4.0.0/windows95-win32-x64-4.0.0.zip
+
+You can launch it, open Paint, write in Notepad, play Minesweeper — all from a modern web browser.
+
+No VM.
+No emulator.
+No install.
+
+Just the web.
+
+Windows 95 Logo (transparent PNG)
+
+Image URL:
+https://www.pngkit.com/png/detail/163-1635480_windows-95-logo-png.png
+
+Credit line to include:
+
+Image credit: PNGKit — Windows 95 logo (Microsoft)
